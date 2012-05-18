@@ -1,0 +1,16 @@
+{
+   "browser_action": {
+      "default_icon": "icon.png",
+      "popup": "popup.html"
+   },
+   "description": "Reach CodeIgniter TOC - everywhere you go!",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon.png",
+      "32": "icon128.png",
+      "48": "icon128.png"
+   },
+   "name": "Codeigniter User Guide v 2.01",
+   "permissions": [ "tabs" ],
+   "version": "1.0.0"
+}
