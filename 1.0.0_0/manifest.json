@@ -10,7 +10,7 @@
       "32": "icon128.png",
       "48": "icon128.png"
    },
-   "name": "Codeigniter User Guide v 2.01",
+   "name": "Codeigniter User Guide v 2.1.0",
    "permissions": [ "tabs" ],
    "version": "1.0.0"
 }
